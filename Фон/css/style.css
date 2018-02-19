@@ -1,0 +1,13 @@
+div {
+	width: 500px;
+	height: 30px;
+	text-align: center;
+	padding: 5px;
+	margin: auto;
+	border: 2px solid red;
+	background: linear-gradient (to top right,#800080 10%, #DC143C 30%, #FF4500	 50%, #FFD700 75%
+);
+}
+html, body { 
+    min-height: 100% 
+}
